@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Test / editor artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+
+# Local call sessions can contain personal data; do not commit them.
+outputs/call_*.json
+outputs/call_*.txt
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2 @@
+# The local simulator and tests use only the Python standard library.
+# No third-party package is required.
